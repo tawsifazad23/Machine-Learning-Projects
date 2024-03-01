@@ -43,6 +43,3 @@ The project includes several visualizations:
 ## Conclusion
 This customer segmentation analysis showcases the power of K-Means clustering in marketing analytics. The insights derived from this project can help businesses understand their customer base better and tailor their strategies accordingly.
 
----
-
-For more details, please refer to the Jupyter notebook containing the full analysis and code.
